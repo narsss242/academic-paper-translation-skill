@@ -1,0 +1,4 @@
+interface:
+  display_name: 学术论文中英对照翻译
+  short_description: 制作论文全文中英对照，保留图表、公式和来源锚点，并明确缺失及不确定内容
+  default_prompt: 请用 $academic-paper-translation-skill 处理我提供的材料，并按本次要求交付。
